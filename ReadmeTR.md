@@ -93,6 +93,11 @@ nexus-network start --node-id your-node-id
 
 ![image](https://github.com/user-attachments/assets/06cbe3be-1999-4d73-b0c9-29dce8ec1dcf)
 
+#### Örnek Normal Hali : 
+
+<img width="887" alt="cli-tui" src="https://github.com/user-attachments/assets/7d30ecfb-80bd-419e-838d-285b781108c4" />
+
+
 - CTRL'ye basılı tutup A ve D yaparak Screenden çıkabilirsiniz.
 
 
