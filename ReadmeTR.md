@@ -7,6 +7,14 @@
 | **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Ucuz  |
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Ucuz |
 
+| X        | Minimum              |
+|------------------|----------------------------|
+| **CPU**          | 4 |
+| **RAM**          | 9++ GB                     |
+| **Disk**      | 50 GB SDD                   |
+| **Internet Hızı**      | 100 Mbps |
+| **İşletim Sistemi**      | Ubuntu 24 |
+
 # Kayıt : 
 
 -  https://app.nexus.xyz/ - Register on the site with your wallet and email at the top right - it's better to use the same one you used on the old testnet.
@@ -68,6 +76,15 @@ source ~/.bashrc
 ![image](https://github.com/user-attachments/assets/edc927f7-d6a6-45de-b610-49dcc8af1571)
 
 
+## Başlatalım : 
+
+- Siteden Node ID Alalım.
+
+```bash
+nexus-network start --node-id your-node-id
+```
+
+- "your-node-id" kısmına siteden aldığınız nodeID'niz ile değiştirip başlatın.
 
 
 ## Web : 
