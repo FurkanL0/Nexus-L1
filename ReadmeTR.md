@@ -10,7 +10,7 @@
 | X        | Minimum              |
 |------------------|----------------------------|
 | **CPU**          | 4 |
-| **RAM**          | 10++ GB                     |
+| **RAM**          | 6++ GB                     |
 | **Disk**      | 50 GB SDD                   |
 | **Internet Hızı**      | 100 Mbps |
 | **İşletim Sistemi**      | Ubuntu 24 |
