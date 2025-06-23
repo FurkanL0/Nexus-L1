@@ -15,6 +15,11 @@
 | **Internet Hızı**      | 100 Mbps |
 | **İşletim Sistemi**      | Ubuntu 24 |
 
+- Anlık Kullanım : 
+
+![image](https://github.com/user-attachments/assets/1baab409-3ea2-4985-8259-d57fdb5c5916)
+
+
 # Kayıt : 
 
 -  https://app.nexus.xyz/ - Register on the site with your wallet and email at the top right - it's better to use the same one you used on the old testnet.
