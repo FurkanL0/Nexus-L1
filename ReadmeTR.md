@@ -4,8 +4,8 @@
 
 | Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
-| **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Cheap / Paypal  |
-| **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
+| **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Ucuz  |
+| **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Ucuz |
 
 # Kayıt : 
 
@@ -46,6 +46,10 @@ source $HOME/.cargo/env
 ```bash
 rustup target add riscv32i-unknown-none-elf
 ```
+
+![image](https://github.com/user-attachments/assets/cb08651c-6db6-4106-a5e0-285cb399d960)
+
+
 # 3. Nexus CLI : 
 
 ```bash
@@ -55,22 +59,14 @@ screen -S nexus
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
+- Soruya Y yazıp enterleyin.
+
 ```bash
 source ~/.bashrc
 ```
 
-![image](https://github.com/user-attachments/assets/36587c62-f46f-4625-8310-414457aa4186)
+![image](https://github.com/user-attachments/assets/edc927f7-d6a6-45de-b610-49dcc8af1571)
 
-![image](https://github.com/user-attachments/assets/53fc86b1-6c86-4d70-8716-60095f645419)
-
-![image](https://github.com/user-attachments/assets/656f0c05-d5d3-4c9e-a542-97d349d87ef0)
-
-
-![image](https://github.com/user-attachments/assets/dbba1476-b2d2-4710-929e-d014582cb19a)
-
-## Fist 2 and Enter your ID.
-
-![image](https://github.com/user-attachments/assets/eb6b9813-b590-4bef-b5e4-5b19a05f6baf)
 
 
 
