@@ -79,6 +79,7 @@ source ~/.bashrc
 ## Başlatalım : 
 
 - Siteden Node ID Alalım.
+- Link : https://app.nexus.xyz/nodes
 
 ```bash
 nexus-network start --node-id your-node-id
