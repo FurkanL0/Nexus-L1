@@ -31,7 +31,7 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ```
 
 ```bash
-sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
+sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler -y
 ```
 
 ## Rust Indirme : 
