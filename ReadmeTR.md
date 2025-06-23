@@ -86,6 +86,14 @@ nexus-network start --node-id your-node-id
 
 - "your-node-id" kısmına siteden aldığınız nodeID'niz ile değiştirip başlatın.
 
+![image](https://github.com/user-attachments/assets/b734e345-e6d2-46bf-97d8-91b81d4f8cd5)
+
+- Kurulum Öncesi Deneme Olduğu İçin Error'lu ; 
+
+![image](https://github.com/user-attachments/assets/06cbe3be-1999-4d73-b0c9-29dce8ec1dcf)
+
+- CTRL'ye basılı tutup A ve D yaparak Screenden çıkabilirsiniz.
+
 
 ## Web : 
 
