@@ -103,7 +103,8 @@ nexus-network start --node-id your-node-id
 
 ## Web : 
 
-![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
+![kass](https://github.com/user-attachments/assets/579f806b-9a21-4902-85f9-23aadea7b8b6)
+
 
 ## Link : https://app.nexus.xyz/
 
